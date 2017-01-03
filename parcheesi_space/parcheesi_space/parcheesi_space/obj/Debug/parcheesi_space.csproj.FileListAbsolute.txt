@@ -1,0 +1,7 @@
+C:\Users\J.Appallonia\Desktop\parcheesi_space\parcheesi_space\obj\Debug\parcheesi_space.space.resources
+C:\Users\J.Appallonia\Desktop\parcheesi_space\parcheesi_space\obj\Debug\parcheesi_space.csproj.GenerateResource.Cache
+C:\Users\J.Appallonia\Desktop\parcheesi_space\parcheesi_space\bin\Debug\parcheesi_space.dll
+C:\Users\J.Appallonia\Desktop\parcheesi_space\parcheesi_space\bin\Debug\parcheesi_space.pdb
+C:\Users\J.Appallonia\Desktop\parcheesi_space\parcheesi_space\obj\Debug\parcheesi_space.dll
+C:\Users\J.Appallonia\Desktop\parcheesi_space\parcheesi_space\obj\Debug\parcheesi_space.pdb
+C:\Users\J.Appallonia\Desktop\parcheesi_space\parcheesi_space\obj\Debug\parcheesi_space.Properties.Resources.resources

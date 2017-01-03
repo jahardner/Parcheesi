@@ -1,0 +1,10 @@
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\bin\Debug\Parcheesi.exe.config
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\bin\Debug\Parcheesi.exe
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\bin\Debug\Parcheesi.pdb
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\obj\Debug\Parcheesi.parcheesi.resources
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\obj\Debug\Parcheesi.Properties.Resources.resources
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\obj\Debug\Parcheesi.csproj.GenerateResource.Cache
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\obj\Debug\Parcheesi.exe
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\obj\Debug\Parcheesi.pdb
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\bin\Debug\parcheesi_space.dll
+C:\Users\J.Appallonia\Desktop\Parcheesi\Parcheesi\bin\Debug\parcheesi_space.pdb
